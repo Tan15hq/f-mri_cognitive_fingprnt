@@ -1,0 +1,12 @@
+{
+  "file": "/content/drive/MyDrive/fmri_fingerprint/connectivity/sub-006_ses-1_task-rest_atlas-schaefer200_conn_z.npz",
+  "subj": "sub-006",
+  "session": "ses-1",
+  "atlas": "schaefer200",
+  "shape": [
+    200,
+    200
+  ],
+  "dtype": "float64",
+  "md5": "e1bb10174a3d1e65926111d94bcef0fe"
+}

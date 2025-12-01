@@ -97,22 +97,22 @@ These figures are included in the repository to demonstrate the full pipeline an
 
 
 ### Split-Half Similarity Matrix
-![Split Half Similarity](results/sim_heatmap.png)
+![Split Half Similarity](results/sim_heatmap.PNG)
 
 ### Diagonal Self-Similarity Sorted
-![Diagonal Sorted](results/diag_sorted.png)
+![Diagonal Sorted](results/diag_sorted.PNG)
 
 ### ICC Heatmap
-![ICC Heatmap](results/icc_heatmap.png)
+![ICC Heatmap](results/icc_heatmap.PNG)
 
 ### Top 500 ICC Connectome
-![Top Edges](results/top_500_icc_connectome.png)
+![Top Edges](results/top_500_icc_connectome.PNG)
 
 ### Accuracy vs K (ICC-ranked edges)
-![Accuracy vs K](results/accuracy_vs_K_plot.png)
+![Accuracy vs K](results/accuracy_vs_K_plot.PNG)
 
 ### Siamese Embedding PCA View
-![Siamese PCA](results/siamese_embeddings_pca2d.png)
+![Siamese PCA](results/siamese_embeddings_pca2d.PNG)
 
 
 
