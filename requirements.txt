@@ -1,0 +1,12 @@
+nilearn
+nibabel
+numpy
+pandas
+scikit-learn
+scipy
+joblib
+matplotlib
+plotly
+torch
+networkx
+seaborn
